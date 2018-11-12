@@ -3,14 +3,8 @@ div {
 	height:100px;
 }
 
-#rock {
-	background-color: red;
-}
-
-#paper {
-	background-color: blue;
-}
-
+#rock,
+#paper,
 #scissors {
-	background-color: purple;
+	font-size: 100px;
 }
